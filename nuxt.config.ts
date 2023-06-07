@@ -5,11 +5,12 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
         '@nuxtjs/supabase',
         '@pinia/nuxt',
-        '@nuxt/image-edge',
+        '@nuxt/image',
         '@nuxtjs/device',
         '@nuxtjs/robots',
         '@nuxtjs/google-fonts',
         '@nuxtjs/color-mode',
-        'nuxt-swiper'
+        'nuxt-swiper',
+        'nuxt-lodash'
     ]
 })
