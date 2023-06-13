@@ -4,6 +4,5 @@ import '@/assets/scss/live.scss'
 <template>
     <div>
         <slot/>
-        <UNotifications />
     </div>
 </template>

@@ -1,0 +1,13 @@
+{
+    "signin": {
+        "title": "Welcome back",
+        "subtitle": "Sign in to your account",
+        "signwith": "Sign in with",
+        "email": "Email",
+        "providers": {
+            "github": "Github",
+            "google": "Google",
+            "email": "Email"
+        }
+    }
+}
