@@ -8,7 +8,8 @@ export default <Partial<Config>>{
             colors: {
                 supanuxt: {
                     primary: '#40bf86',
-                    secondary: '#00dc82'
+                    secondary: '#00dc82',
+                    error: 'rgb(185 28 28)'
                 }
             }
         }
